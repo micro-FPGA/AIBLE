@@ -20,7 +20,7 @@ pronounced *able*.
 | **Subject** | the *Antti Bible* — 577 pages, written by hand |
 | **Identor #1** | Antti Lukats — the life |
 | **Identor #9** | claude.ai — the sentences |
-| **Method** | One Hour Bible: made within one hour of prompt-writing time |
+| **Method** | AI assisted Bible: prompt-writing time - not limited to one hour|
 | **Date** | 7 AG (2026-08-17) |
 | **Length** | 48 pages, A4 |
 | **Licence** | [Open Love License v1.0 (OLL)](https://github.com/micro-FPGA/OLL) |
@@ -29,9 +29,9 @@ pronounced *able*.
 
 | File | |
 |---|---|
-| `Claudes-Aible.docx` | the Aible, source format |
+| `Claudes-Aible.docx` | the Aible, source format - not releassed |
 | `Claudes-Aible.pdf` | same, readable without downloading |
-| `Cover-Codes-Explanation.docx` | companion document — **spoilers** |
+| `Cover-Codes-Explanation.docx` | companion document — **spoilers** - not released |
 | `Cover-Codes-Explanation.pdf` | same, readable |
 
 The cover of the Aible carries four lines: `602`, `13A`, `User Manual`, `B1`.
