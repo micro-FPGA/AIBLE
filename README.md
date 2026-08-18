@@ -30,7 +30,7 @@ claude.ai is #9.
 ## One Hour Bible
 
 One Hour Bible is what was before Aible, short: One Hour Bible is a Bible written within one hour (of prompt writing time).
-It is the entry rule for the Creative category of [GOLC](https://github.com/micro-FPGA/GOLC). |
+It is the entry rule for the Creative category of [GOLC](https://github.com/micro-FPGA/GOLC). 
 
 **Aible** Is any Bible written with the help of AI (no limitation on prompt writing time).
 
