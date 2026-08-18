@@ -51,6 +51,7 @@ aibles/
 | # | Title | Subject | AI | Length | Date |
 |---|---|---|---|---|---|
 | [1](aibles/1/README.md) | Claude's Aible | the *Antti Bible* | claude.ai (Identor #9) | 48 pp | 7 AG |
+| [2](aibles/2/README.md) | The Weather of Small Repair | invented notebooks of Mira Eliasen | **fully AI-generated** | ChatGPT | 25 pp | 7 AG |
 
 An Aible has a **subject** — the material it was made from. The subject of #1 is
 the *Antti Bible*, 577 pages, written by hand. An Aible is not a replacement for
