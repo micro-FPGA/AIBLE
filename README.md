@@ -27,14 +27,12 @@ An *identor* is any entity with ideas. Note what that definition does not say: i
 does not say human, or living, or born. AI systems hold Identor numbers too.
 claude.ai is #9.
 
-## Method and object
+## One Hour Bible
 
-Two different things, and the difference is the point:
+One Hour Bible is what was before Aible, short: One Hour Bible is a Bible written within one hour (of prompt writing time).
+It is the entry rule for the Creative category of [GOLC](https://github.com/micro-FPGA/GOLC). |
 
-| | |
-|---|---|
-| **One Hour Bible** | the *method* — a Bible made with AI help inside one hour of prompt-writing time. It is the entry rule for the Creative category of [GOLC](https://github.com/micro-FPGA/GOLC). |
-| **Aible** | the *object* — the thing the method produces. |
+**Aible** Is any Bible written with the help of AI (no limitation on prompt writing time).
 
 ## The register
 
