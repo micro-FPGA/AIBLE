@@ -55,7 +55,7 @@ Only three, and they are what will keep this from becoming noise:
    badly is fine, typos do not matter, facts do.
 2. Hand the whole file to an AI and ask it to produce the book.
 3. Add your entry to the register and open a pull request:
-   **https://github.com/micro-FPGA/AIBLE**
+   https://github.com/micro-FPGA/AIBLE
 4. There is no time limit. If you finish inside one hour of prompt-writing time, it
    also qualifies as a *One Hour Bible* and can be entered in
    [GOLC](https://github.com/micro-FPGA/GOLC).
