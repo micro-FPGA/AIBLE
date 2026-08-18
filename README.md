@@ -1,6 +1,7 @@
 # AIBLE
 
 **An Aible is a Bible made with the help of an AI.**
+**[Open call: start writing Aibles](open-call.md)** — anyone can contribute one.
 
 Take BIBLE and put the A of AI where the B of Book was:
 
