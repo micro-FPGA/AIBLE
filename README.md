@@ -44,10 +44,8 @@ One folder per Aible:
 aibles/
   1/
     README.md                     who, which AI, date, method, licence
-    Claudes-Aible.docx            the Aible
-    Claudes-Aible.pdf
-    Cover-Codes-Explanation.docx  companion document (spoilers)
-    Cover-Codes-Explanation.pdf
+    Claudes-Aible.pdf             the Aible
+    Cover-Codes-Explanation.pdf   companion document (spoilers)
 ```
 
 ### Entries
