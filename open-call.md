@@ -51,8 +51,8 @@ Only three, and they are what will keep this from becoming noise:
 
 ## How to enter
 
-1. Take the template: **INSTRUCTIONS.md**. Fill in the blanks in your own words —
-   badly is fine, typos do not matter, facts do.
+1. Take the template: [instructions/AIBLE-INSTRUCTIONS-template.md](instructions/AIBLE-INSTRUCTIONS-template.md). 
+   Fill in the blanks in your own words — badly is fine, typos do not matter, facts do.
 2. Hand the whole file to an AI and ask it to produce the book.
 3. Add your entry to the register and open a pull request:
    https://github.com/micro-FPGA/AIBLE
