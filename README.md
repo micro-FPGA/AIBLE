@@ -84,7 +84,6 @@ Leaving them unnamed is the correct answer here, not a gap waiting to be filled.
    the AI, the date, the method and the licence. If you did not record which AI,
    write **unrecorded** — that is a legitimate value here, not a failure.
 3. Open a pull request. Holders of an Identor number may commit directly.
-4. Enter it in GOLC under Creative, subcategory One Hour Bible.
 
 The interesting thing about this register is not any single entry. It is the
 comparison across entries: the same material, different machines, different books.
