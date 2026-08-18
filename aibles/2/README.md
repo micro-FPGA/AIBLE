@@ -2,7 +2,7 @@
 
 Title:               The Weather of Small Repair  
 Subject:             the notebooks and ordinary life of Mira Eliasen 
-Source:              fully AI-generated (author and material both invented)
+Source:              fully AI-generated (author and material both invented)  
 Author:              Mira Eliasen - FICTIONAL, invented by the AI
 AI:                  ChatGPT (OpenAI GPT-5 Codex)  (Identor #10)  
 Prompt-writing time: 42 minutes  
