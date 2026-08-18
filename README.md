@@ -79,7 +79,7 @@ Leaving them unnamed is the correct answer here, not a gap waiting to be filled.
 
 ## Adding your own
 
-1. Make one. The entry rule is the method: one hour of prompt-writing time.
+1. Make one. The entry rule is the method: there is no time limit writing the prompt
 2. Add `aibles/<n>/` containing your documents and a `README.md` giving the author,
    the AI, the date, the method and the licence. If you did not record which AI,
    write **unrecorded** — that is a legitimate value here, not a failure.
