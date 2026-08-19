@@ -21,9 +21,9 @@
 
 | File | |
 |---|---|
-| `The-Small-Inspector.docx` | the Aible |
-| `micro.md` | the filled-in instruction file it was built from |
-| `build_micro.py` | the script that produced the document |
+| `The-Small-Inspector.pdf` | the Aible |
+| `README.md` | README for the Aible |
+
 
 ## How it was made
 
