@@ -12,7 +12,7 @@
 | **Author** | Mikro Controller — FICTIONAL, invented by the AI |
 | **AI** | Claude (Anthropic), Identor #9 |
 | **Prompt-writing time** | less than five minutes |
-| **Also a One Hour Bible?** | no |
+| **Also a One Hour Bible?** | yes |
 | **Date** | 18 August 2026 |
 | **Length** | 24 pages, A4 |
 | **Licence** | [Open Love License v1.0 (OLL)](https://github.com/micro-FPGA/OLL) |
