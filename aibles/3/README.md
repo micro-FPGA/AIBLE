@@ -11,7 +11,7 @@
 | **Source** | **fully AI-generated** (person and material both invented) |
 | **Author** | Mikro Controller — FICTIONAL, invented by the AI |
 | **AI** | Claude (Anthropic), Identor #9 |
-| **Prompt-writing time** | one afternoon |
+| **Prompt-writing time** | less than five minutes |
 | **Also a One Hour Bible?** | no |
 | **Date** | 18 August 2026 |
 | **Length** | 24 pages, A4 |
