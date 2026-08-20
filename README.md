@@ -53,7 +53,7 @@ aibles/
 |---|---|---|---|---|---|---|
 | [1](aibles/1/README.md) | Claude's Aible | the *Antti Bible* | human (Antti Lukats) | claude.ai | 48 pp | 7 AG |
 | [2](aibles/2/README.md) | The Weather of Small Repair | invented notebooks of Mira Eliasen | **fully AI-generated** | ChatGPT | 25 pp | 7 AG |
-| [3](aibles/3/README.md) | The Small Inspector | invented life and bench of Mikro Controller | **fully AI-generated** | Claude | 24 pp | 2026 |
+| [3](aibles/3/README.md) | The Small Inspector | invented life and bench of Mikro Controller | **fully AI-generated** | Claude | 24 pp | 7 AG |
 
 An Aible has a **subject** — the material it was made from. The subject of #1 is
 the *Antti Bible*, 577 pages, written by hand. An Aible is not a replacement for
