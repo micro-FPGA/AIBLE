@@ -53,18 +53,41 @@ MOE   MOI   MOS   MOH   MO5
 ## Real sport, invented athlete
 
 [Amateur radio direction finding](https://en.wikipedia.org/wiki/Amateur_radio_direction_finding)
-is described accurately, and was checked against the source rather than
-recalled: five transmitters on one frequency taking turns for one minute each
-in a repeating cycle; identified in Morse by counting the dits after the
-dashes; a map, compass, receiver with directional antenna and attenuator, and
-a card punched at each fox; two bands, 3.5 MHz and 144 MHz; courses of six to
-ten kilometres; W19 for a junior woman. The sport was pushed through Northern
-and Eastern European school clubs as technical education, which is exactly how
-this invented junior says she found it.
+as described: five foxes taking turns for one minute each in a repeating
+cycle on a classic course; identified in Morse by counting the dits after the
+dashes; a map, compass, receiver with directional antenna and loudness
+control, and a card punched at each fox; two bands, 3.5 MHz and 144 MHz;
+courses of six to ten kilometres; W19 for a junior woman. The sport was pushed
+through Northern and Eastern European school clubs as technical education,
+which is how this invented junior says she found it.
 
 `MOE MOI MOS MOH MO5` are the standard fox designations. Widely used, but not
-spelled out on that Wikipedia page — taken from general ARDF usage rather than
+spelled out on the Wikipedia page — taken from general ARDF usage rather than
 from the cited source.
+
+### Two corrections after first publication
+
+The first version of this Aible got two details of the sport wrong. Both were
+caught by **Antti Lukats**, who has actually done it, and both were fixed the
+way the template prescribes: the correction went into `mai.md` as a
+prohibition and the book was regenerated. No hand-editing of the output, so
+the entry is still fully AI-generated.
+
+**1. It is a loudness control, not an attenuator.** The cited source says
+"an attenuator *or* variable gain control" and the machine picked the wrong
+half of the *or*. In the hand it is a potentiometer, and the reason matters:
+you wind the loudness *down* as you close on the fox, because near the
+transmitter everything is loud and a loud signal has no direction in it. That
+detail is now in the book and it is a better sentence than the wrong one was.
+
+**2. The foxes are not always on one frequency.** The source states the shared
+frequency flatly and the machine repeated it as universal. Classic courses
+time-share one frequency; other formats do not, and then you are retuning the
+receiver while running — which is harder, and is where the minute goes.
+
+Recorded here rather than quietly fixed, because a register whose whole claim
+is provenance should show its corrections. Same handling as the Mirko rename
+in Aible #3.
 
 ## What she was given not to do
 
