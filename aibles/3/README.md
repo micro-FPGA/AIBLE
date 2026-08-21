@@ -8,6 +8,7 @@
 |---|---|
 | **Title** | The Small Inspector |
 | **Subject** | the invented life and bench of Mirko Controller |
+| **Created by** | Antti Lukats, Identor #1 |
 | **Source** | **fully AI-generated** (person and material both invented) |
 | **Author** | Mirko Controller — FICTIONAL, invented by the AI |
 | **AI** | Claude (Anthropic), Identor #9 |
