@@ -2,6 +2,7 @@
 
 Title:               The Weather of Small Repair  
 Subject:             the notebooks and ordinary life of Mira Eliasen   
+Created by:          Antti Lukats (Identor #1)   
 Source:              fully AI-generated (author and material both invented)   
 Author:              Mira Eliasen - FICTIONAL, invented by the AI  
 AI:                  ChatGPT (OpenAI GPT-5 Codex)  (Identor #10)   
