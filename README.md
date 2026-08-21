@@ -56,6 +56,7 @@ aibles/
 | [3](aibles/3/README.md) | The Small Inspector | invented life and bench of Mirko Controller | **fully AI-generated** | Claude | 24 pp | 7 AG |
 | [4](aibles/4/README.md) | Uncommitted | invented work and archive of Kate Aray | **fully AI-generated** | Claude | 23 pp | 7 AG |
 | [5](aibles/5/README.md) | What People Said They Would Do | invented notebook of Res Istor, age 13 | **fully AI-generated** | Claude | 23 pp | 7 AG |
+| [6](aibles/6/README.md) | The Signal Is Not the Fox | invented bearings of Mai Kuusk, ARDF junior | **fully AI-generated** | Claude | 24 pp | 7 AG |
 
 An Aible has a **subject** — the material it was made from. The subject of #1 is
 the *Antti Bible*, 577 pages, written by hand. An Aible is not a replacement for
