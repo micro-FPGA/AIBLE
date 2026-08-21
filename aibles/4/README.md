@@ -8,6 +8,7 @@
 |---|---|
 | **Title** | Uncommitted |
 | **Subject** | the invented work and archive of Kate Aray |
+| **Created by** | Antti Lukats, Identor #1 |
 | **Source** | **fully AI-generated** (person and material both invented) |
 | **Author** | Kate Aray — FICTIONAL, invented by the AI |
 | **AI** | Claude (Anthropic), Identor #9 |
