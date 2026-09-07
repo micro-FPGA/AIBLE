@@ -45,7 +45,7 @@ Develop a lightweight, FPGA-based neural accelerator for real-time edge AI infer
 
 ## 5. Workflow Instructions
 ### Step 1: Clone Repo
-```bash
+
 git clone https://github.com/micro-FPGA/neural-accel.git
 cd neural-accel
 
