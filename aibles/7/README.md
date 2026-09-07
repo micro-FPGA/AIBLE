@@ -8,8 +8,8 @@ Result? Was another FPGA project this time with AMD FPGA and simulated in FPGA c
 
 Final Outputs (Simulated)
 
-File	Description	Size (Simulated)
-|----|----|----|
+| File | Description | Size (Simulated)
+| ---- | ---- | ---- |
 | AIBLE-INSTRUCTIONS.md	| Lou Chang’s filled template	| 4.2 KB |
 AIBLE-Report.docx	Generated DOCX report	1.2 MB
 AIBLE-Datasheet.pdf	Generated PDF datasheet	850 KB
