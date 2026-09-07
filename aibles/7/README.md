@@ -17,6 +17,4 @@ There was a listing of output files: Final Outputs (Simulated)
 
 Mistral really did think that AIBLE is a AI Engine implemented in FPGA and not something simple as a book.
 
-I cannot rule out that my own session context pulled it toward hardware. A clean test with a non-technical author and premise is still to be done.
-
 Aible #7 is therefore the absence of an Aible, kept in the register because a comparison across machines is worth more when it includes the one that did not work.
