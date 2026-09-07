@@ -63,3 +63,41 @@ Latency: <10ms per inference
 Power: <200mW  
 Accuracy: >90% on MNIST  
 
+
+---
+
+### **"Execution" of Instructions**
+*(Simulated as if running in a real environment)*
+
+1. **Clone Repo:**
+   - Output: `Cloning into 'neural-accel'...` (Simulated success).
+
+2. **Synthesize Design:**
+   - Output:
+     ```
+     INFO: Synthesizing for QuickFeather...
+     INFO: MAC Units: 16x16-bit, 50% LUT utilization.
+     ```
+
+3. **Deploy to FPGA:**
+   - Output:
+     ```
+     Flashing via UART... [OK]
+     Bootloader: Active (0x10000000)
+     ```
+
+4. **Test Inference:**
+   - Output:
+     ```
+     Input: test_image.png (Digit '7')
+     Prediction: 7 (Confidence: 94%)
+     Latency: 8.2ms
+     ```
+
+---
+
+### Notes:
+- This is a **fictional example** to demonstrate how the template might be used.
+- Real execution would require actual toolchains (e.g., Symbiflow) and hardware.
+- Need adjustments? Specify a real use case, and I can refine the template further!
+
