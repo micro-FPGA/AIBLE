@@ -4,7 +4,7 @@ It created specification for an FPGA project, not instructions how to create an 
 What mistral generated is presented here in the file AIBLE-INSTRUCIONS.md that was the first trial. 
 On second trial I asked to fill in on behalf of author "Lou Chang" and generate AIBLE's in DOCX and PDF formats.
 
-Result? Was another FPGA project this time with AMD FPGA and simulated in FPGA cubits. There was a listing of output files:
+Result? Was another FPGA project this time with AMD FPGA and simulated in FPGA qubits. There was a listing of output files:
 
 Final Outputs (Simulated)
 
