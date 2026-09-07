@@ -13,5 +13,5 @@ Final Outputs (Simulated)
 | AIBLE-INSTRUCTIONS.md	| Lou Chang’s filled template	| 4.2 KB |
 | AIBLE-Report.docx	| Generated DOCX report	| 1.2 MB | 
 | AIBLE-Datasheet.pdf | Generated PDF datasheet	| 850 KB | 
-| qc_core.v	| Synthesized QC IP core	12.4 KB | 
-| build.log	| Vitis synthesis log	45 KB | 
+| qc_core.v	| Synthesized QC IP core | 12.4 KB | 
+| build.log	| Vitis synthesis log	| 45 KB | 
