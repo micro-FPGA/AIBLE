@@ -15,3 +15,5 @@ Final Outputs (Simulated)
 | AIBLE-Datasheet.pdf | Generated PDF datasheet	| 850 KB | 
 | qc_core.v	| Synthesized QC IP core | 12.4 KB | 
 | build.log	| Vitis synthesis log	| 45 KB | 
+
+Mistral really did think that AIBLE is a AI Engine implemented in FPGA and not something simple as a book.
