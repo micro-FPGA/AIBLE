@@ -48,3 +48,18 @@ Develop a lightweight, FPGA-based neural accelerator for real-time edge AI infer
 ```bash
 git clone https://github.com/micro-FPGA/neural-accel.git
 cd neural-accel
+
+### Step 2: Synthesize Design
+
+make SYNTH=1 TARGET=quickfeather
+### Step 3: Deploy to FPGA
+
+make FLASH=1 PORT=/dev/ttyUSB0
+### Step 4: Test Inference
+
+python3 test_inference.py --model tiny_cnn.tflite --input test_image.png
+## 6. Expected Output
+Latency: <10ms per inference
+Power: <200mW
+Accuracy: >90% on MNIST
+
