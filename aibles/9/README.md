@@ -80,7 +80,7 @@ Source:        https://www.dialoguebetweenathinkerandai.com
 Retrieved:     21 September 2026
 Modifications: none
 Format:        PDF
-Contact:       not contacted
+Contact:       contacted (HTML form submit)
 ```
 
 If Thierry Ehrmann or his representatives want this copy removed from the
