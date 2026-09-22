@@ -6,5 +6,7 @@ If you want to read this book, I suggest you start with one chapter. Read chapte
 
 Thierry Ehrmann — Dialogue Between a Thinker and AI — 2026
 
+I Think the complete book could be summarized on 18 pages or less, but as per copyright this is not allowed.
+
 
 
