@@ -13,7 +13,7 @@ authorised, not modified.
 Every other Aible in this register is published under OLL v1.0. **This one is
 not, and cannot be.**
 
-| | |
+
 |---|---|
 | Licence | **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0** |
 | Copyright | © 2026 Thierry Ehrmann |
