@@ -13,9 +13,8 @@ authorised, not modified.
 Every other Aible in this register is published under OLL v1.0. **This one is
 not, and cannot be.**
 
-|  |  |
-|---|---|
 | Licence | **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0** |
+|---|---|
 | Copyright | © 2026 Thierry Ehrmann |
 | Licence text | https://creativecommons.org/licenses/by-nc-nd/4.0/ |
 
@@ -36,9 +35,8 @@ register's MIT and OLL terms stop at the folder boundary.
 Because it is the largest thing of its kind that exists, and a register that
 omits it would be a register of my own work rather than of a phenomenon.
 
-| | |
-|---|---|
 | Title | Dialogue Between a Thinker and AI |
+|---|---|
 | Author | Thierry Ehrmann |
 | Year | 2026 |
 | Length | ~1,800 pages in the print edition |
