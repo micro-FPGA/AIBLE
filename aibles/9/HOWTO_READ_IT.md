@@ -1,6 +1,6 @@
 How to read 1,800 pages
 
-Cover to cover, line by line, is hard work and takes a long time. I am skip-reading, and after several sessions I am at page 220.
+Cover to cover, line by line, is hard work and takes a long time. I am skip-reading, and after several sessions I am at page 1340.
 
 If you want to start somewhere, start with chapter 87. It stands on its own, and it is where the book's question is put most directly:
 
