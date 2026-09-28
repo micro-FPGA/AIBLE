@@ -6,9 +6,8 @@
 > and is not associated with this register. Every fact in it is public and is
 > listed on the Sources page at the back. **No text from his book is used.**
 
-| | |
-|---|---|
 | **Title** | Transmission Without a Copy |
+|---|---|
 | **Subject** | Terry L. Transmitter — a fictive name for Thierry Ehrmann, written from public information about him |
 | **Source** | public information + an AI-written persona |
 | **Author of record** | Terry L. Transmitter — FICTIVE |
@@ -24,10 +23,8 @@
 
 | File | |
 |---|---|
-| `Transmission-Without-A-Copy.docx` | the Aible |
-| `Transmission-Without-A-Copy.pdf` | same, readable without downloading |
-| `terry.md` | the filled-in instruction file it was built from |
-| `build_terry.py` | the script that produced the document |
+| `Transmission-Without-A-Copy.pdf` | The Aible |
+| `README.md` | this file |
 
 ## Why this one is different from the rest
 
