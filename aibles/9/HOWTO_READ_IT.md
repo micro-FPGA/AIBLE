@@ -15,4 +15,6 @@ It seems the Author (Thierry Ehrmann) has not read his book as on page 1424 ther
 
 # Meta-reading
 
-At the books website there is also now (Meta-reading)[https://www.dialoguebetweenathinkerandai.com/en/meta-reading/] page offering 9 AI readings of the book. The site says: The meta-reading does not replace the book: it offers one possible map of the work and opens new pathways for reading it.
+At the books website there is also now Meta-reading [https://www.dialoguebetweenathinkerandai.com/en/meta-reading/] page offering 9 AI readings of the book. The site says: The meta-reading does not replace the book: it offers one possible map of the work and opens new pathways for reading it.
+
+
