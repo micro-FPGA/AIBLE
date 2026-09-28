@@ -1,4 +1,4 @@
-#How to read 1,800 pages
+# How to read 1,800 pages
 
 Cover to cover, line by line, is hard work and takes a long time. I did skip-reading.
 
@@ -13,6 +13,6 @@ I suspect the whole thing could be reduced to eighteen pages. I am not going to 
 
 It seems the Author (Thierry Ehrmann) has not read his book as on page 1424 there is sentence that is truncated mid word, this is something a human reader instantly sees.
 
-#Meta-reading
+# Meta-reading
 
 At the books website there is also now (Meta-reading)[https://www.dialoguebetweenathinkerandai.com/en/meta-reading/] page offering 9 AI readings of the book. The site says: The meta-reading does not replace the book: it offers one possible map of the work and opens new pathways for reading it.
