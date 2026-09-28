@@ -15,6 +15,6 @@ It seems the Author (Thierry Ehrmann) has not read his book as on page 1424 ther
 
 At the books website there is also now Meta-reading [https://www.dialoguebetweenathinkerandai.com/en/meta-reading/] page offering 9 AI readings of the book. The site says: The meta-reading does not replace the book: it offers one possible map of the work and opens new pathways for reading it. The 9 did not include Claude for some reason.
 
-# Critical Analyzes
+# Critical Analysis
 
-Claude was tasked with critical analyzes of the book, it is included in this folder [https://github.com/micro-FPGA/AIBLE/blob/main/aibles/9/Recognition-Is-Not-Evidence.pdf]
+Claude was tasked with critical analysis of the book, it is included in this folder [https://github.com/micro-FPGA/AIBLE/blob/main/aibles/9/Recognition-Is-Not-Evidence.pdf]
