@@ -16,6 +16,11 @@
 | Length | 25 pages |
 | Licence | Open Love License v1.0 (OLL) |
 
+## The story and the Podcast
+
+This Aible is written as inspiration from a question of Joerg Fritsch, he asked if AI can write "Flower Bible". So this Aible is answer to this question. AI can do it. Parts of this Aible are used in the UNREAD podcast epiosode [https://open.spotify.com/episode/4Hk7DUitB4adhGGhXjp58V]
+
+
 ## Files
 
 - `INSTRUCTIONS.md` — the filled template. **The source.** Worth more than the output.
