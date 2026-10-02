@@ -16,6 +16,16 @@
 | Length | 25 pages |
 | Licence | Open Love License v1.0 (OLL) |
 
+## The story and the podcast
+
+This Aible started with a question. Joerg Fritsch (Identor #19) asked whether an AI could
+write a "Flower Bible". This Aible is the answer. AI can do it.
+
+Parts of it are used in the UNREAD podcast episode
+[Can AI Write a Bible? The AIBLE Project](https://open.spotify.com/episode/4Hk7DUitB4adhGGhXjp58V).
+
+The Estonian on the front page, *alati paaritu*, reads both ways: odd as in not even, and unpaired as in single. The English title only carries the first.
+
 ## Files
 
 - `INSTRUCTIONS.md` — the filled template. **The source.** Worth more than the output.
