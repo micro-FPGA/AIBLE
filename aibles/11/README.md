@@ -5,7 +5,7 @@
 > replied. **Greta Thunberg never answered and almost certainly never saw it.
 > Richard Branson was never contacted and knows nothing about any of this.**
 
-| | |
+
 |---|---|
 | **Title** | All Yours If the Answer Is Yes |
 | **Subject** | a real offer of everything, made in public, that nobody took |
