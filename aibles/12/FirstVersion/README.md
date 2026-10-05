@@ -16,7 +16,7 @@
 | **Prompt-writing time** | a few minutes |
 | **Also a One Hour Bible?** | yes |
 | **Date** | 5 October 2026 |
-| **Length** | 18 pages, A4 (second build) |
+| **Length** | 17 pages, A4 |
 | **Licence** | [Open Love License v1.0 (OLL)](https://github.com/micro-FPGA/OLL) |
 
 ## Files
@@ -47,7 +47,7 @@ And all the people will read it and all the AI will read it and the world is
 going to be a little bit better place.
 ```
 
-105 words in. 18 pages out.
+105 words in. 17 pages out.
 
 ## The name
 
@@ -82,30 +82,6 @@ went in. The machine invented the man, named him, gave him seven rules, and then
 wrote a book about a person it had made up ten minutes earlier.
 
 The book says so on its fourth page rather than at the back.
-
-## Correction after first publication
-
-The first build gave Adam Able no life at all. The AI had carried a constraint
-over from Aible 11, where the author is a real living person and inventing facts
-about him would have been dishonest, and wrote this prohibition into `adam.md`:
-
-> `NOTE: do NOT give him a biography. No childhood, no job, no country, no
-> family, no age, no appearance.`
-
-Adam Able is declared fictional on his own cover. **Inventing him is the
-commission** — Mai Kuusk in Aible 6 has a birth year, a coach, a mother, a son
-and a job, all invented, and that is why she is a person rather than an
-argument. Antti Lukats said he had expected a full biography and found none.
-He was right.
-
-The prohibition was struck out of the instruction file and the book was rebuilt
-the same day — no hand-editing of the output, so the entry is still fully
-AI-generated. Adam Able now has an age, a town, a dead paper mill, a grandson,
-a habit of thanking machines and a Bible on the shelf he has never got past
-Leviticus in. All invented, all stated as invented.
-
-Recorded here rather than quietly applied, the same way the two ARDF
-corrections are recorded in Aible 6.
 
 ## The hinge
 

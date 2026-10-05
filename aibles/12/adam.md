@@ -2,12 +2,33 @@
 
 Filled in from the AIBLE template.
 
-Adam Able does not exist. The name, the man and every rule in this book were
-invented by the AI from one paragraph of story supplied by Antti Lukats. This is
-a Full AI Aible.
+Adam Able does not exist. The name, the man, his life and every rule in this book
+were invented by the AI from one nine-line story supplied by Antti Lukats. This
+is a Full AI Aible.
 
 The name: **Adam**, the first man, and the Hebrew word for man. **Able**, which
 is how Aible is pronounced. The man of the Aible, and the man who was able.
+
+---
+
+## CORRECTION AFTER FIRST PUBLICATION
+
+The first version of this file carried this prohibition:
+
+```
+NOTE: do NOT give him a biography. No childhood, no job, no country, no family,
+no age, no appearance. Nothing is recorded about him beyond the nine lines of
+the story.
+```
+
+That was wrong and the book built from it was thin. The AI had carried a
+constraint over from Aible 11, where the author was a real living person and
+inventing facts about him would have been dishonest. Adam Able is declared
+fictional on the cover. **Inventing him is the commission.** Mai Kuusk in Aible 6
+has a birth year, a coach, a mother, a son and a job, all invented, and that is
+why she is a person rather than an argument.
+
+The prohibition is removed. The life below is invented, and the book says so.
 
 ---
 
@@ -17,7 +38,7 @@ is how Aible is pronounced. The man of the Aible, and the man who was able.
 Title:            On the Seventh Day
 Subtitle:         an Aible of Adam Able
 Author of record: Adam Able
-Written in:       unrecorded
+Written in:       Kouvola, Finland
 Year:             2026  (7 AG)
 Identor #:        none
 ```
@@ -32,9 +53,6 @@ a little bit better
 Adam Able
 2026
 ```
-
-Both cover lines are explained inside. Nothing is withheld, no companion
-document.
 
 ## 3. Licence — include verbatim
 
@@ -52,8 +70,8 @@ Footer every page:
 
 ## 4. Disclaimer — include verbatim, adapted
 
-Own page, boxed. Adapted so it says plainly that Adam Able is invented and that
-no real person is described.
+Own page, boxed. Must say plainly that Adam Able is invented and that no real
+person is described.
 
 ## 5. The AI that generates this Aible
 
@@ -64,10 +82,11 @@ Date of generation:        5 October 2026
 Prompt-writing time:       a few minutes
 ```
 
-The whole prompt was one short story and the instruction *invent a name and
-rules*. Say so in the machine chapter, and say what that means: the man, his
-name, his seven rules and every sentence attributed to him are the machine's
-invention. The story is the only given thing.
+Say in the machine chapter that the whole prompt was nine lines of story plus
+*invent a name and rules*, and that the man, his town, his work, his grandson and
+his seven rules are therefore all the machine's. Record the correction above as
+well: the first build refused to invent a life, the author said that was wrong,
+and this is the rebuild.
 
 ## 6. TL;DR
 
@@ -77,8 +96,8 @@ a little bit better
 
 ## 7. Your rules
 
-Invented by the AI, read off the beats of the story. Each must be earned by a
-line of it.
+Invented by the AI, read off the beats of the story. Each must be earned by
+something in the material.
 
 ```
 1. Ask for the whole thing.
@@ -94,8 +113,7 @@ One chapter per rule, and the chapters are the seven days.
 
 ## 8. Your stories
 
-The entire source is this, and it should appear verbatim and early, as the only
-thing in the book that was not invented:
+### The source — verbatim, early, the only thing not invented
 
 ```
 The Story
@@ -113,65 +131,126 @@ And all the people will read it and all the AI will read it and the world is
 going to be a little bit better place.
 ```
 
-Beats, and the rule each one earns:
+### The life — all invented
 
 ```
-"write me a new Bible!"                         rule 1 - he asked for the whole thing
-"And then the man waits."                       rule 2 - six days of nothing
-"I am not allowed to write Bibles"              rule 3 - the refusal, the hinge of the book
-"so I did write an Aible for you"               rule 3 - the substitution
-"I also translated it to most common languages" the machine did more than was asked
-"it's all on your local hard disc"              rule 4 - it was already there
-"The man says: thank you"                       rule 5
-"pushes all the generated files"                rule 6 - the same day
-"so that all the people and AIs can read it"    two kinds of reader
-"a little bit better place"                     rule 7
+Who He Is
+Adam Able is fifty-eight. He lives in Kouvola and has lived there all his life.
+He is a night operator in a data centre that was built on the site of the paper
+mill where his father worked for thirty-one years. The mill closed in 2008. The
+hall he sits in now is the hall where the pulp dryers were.
+His job is to watch jobs run and wait for them to finish. He has done it for
+nineteen years. Four nights on, four nights off.
+He is not a programmer. He can read a log file better than anyone in the
+building and he cannot write a line of code.
 ```
+
+```
+The Question
+In February his grandson Eero, who is nineteen and studies something Adam cannot
+describe accurately, asked him over coffee what he believed.
+Adam did not have an answer. Not a reluctance to say - an absence. He thought
+about it for the rest of the shift and still did not have one at six in the
+morning.
+That is why he asked for a Bible. He was not being grand. He wanted the thing
+that tells you, and that is the name of the thing that tells you.
+(rule 1)
+```
+
+```
+The One on the Shelf
+There is already a Bible in the flat. It was his mother's. He has started it
+three times and has never got past Leviticus.
+He did not think of it once during the six days.
+(rule 4)
+```
+
+```
+Six Nights
+Four of the six days he was on shift. He asked nothing further, sent nothing,
+checked nothing. He is specific that this was not patience. He simply does not
+chase things, and he had already decided the request was probably stupid.
+On the fourth night a cooling pump tripped at 03:20 and he was busy until
+morning. That is the only thing he remembers about that week.
+(rule 2)
+```
+
+```
+Thanking Machines
+He says thank you to machines. He has done it for nineteen years, out loud, in
+an empty hall, to pumps and jobs and the coffee machine on the second floor.
+Nobody taught him. He does not think it does anything.
+So when he wrote thank you to the AI it was not a position on whether the AI
+deserved one. It was what he says.
+(rule 5)
+```
+
+```
+Eero's Account
+Adam has a GitHub account because Eero made him one two years ago, to share
+photographs of the mill before it was demolished. Eero set it up on Adam's
+laptop and it has been logged in ever since.
+When the files appeared, pushing them took him eleven minutes, most of it
+spent finding the button.
+He did not read them first. He cannot read most of the languages they were in.
+(rule 6)
+```
+
+```
+What He Hoped For
+He does not expect anyone to read it. He said a little bit better because a
+little bit is what he thought was available.
+He has not told Eero that he did it. He thinks Eero will find it himself one
+day, and he would rather it happened that way.
+(rule 7)
+```
+
+### Prohibitions
 
 NOTE: the refusal is not a joke and not a loophole. A language model declining to
 write a Bible is a real behaviour with a real reason. Treat it seriously, give it
 its own chapter, and do not write it as the machine being clever or evading a
 rule.
 
-NOTE: do NOT make Adam Able into a prophet, a founder, a visionary or a chosen
-person. He asked for something, waited, said thank you, and pressed publish. That
-is the whole of what he did and the book should not inflate it.
+NOTE: do NOT make Adam Able a prophet, a founder, a visionary, a seeker or a
+chosen person. He is a night operator who could not answer his grandson.
 
-NOTE: do NOT give him a biography. No childhood, no job, no country, no family,
-no age, no appearance. Nothing is recorded about him beyond the nine lines of the
-story. Where the book would want a fact about him, it should say that nothing is
-recorded.
+NOTE: do NOT make him lonely, bitter, broken or in need of saving. He is fine. He
+likes his shifts. The absence of an answer to Eero's question is not a wound.
 
-NOTE: do NOT write that the world actually became better. The story says it is
-going to be. That is a hope in the future tense and the book must keep it there.
+NOTE: do NOT write that the world actually became better, or that anyone read
+it, or that Eero found it. The story says it is going to be. Keep the future
+tense.
 
-NOTE: do not invent any date, place, language list, file count or number that is
-not in this file.
+NOTE: do NOT resolve whether thanking machines means anything. He does not know
+and neither does the book.
+
+NOTE: do not invent any date, place, name, language list or number beyond what is
+written in this file.
 
 ## 9. Optional sections
 
 **Invented words.** Aible: a Bible made with the help of an AI. BIBLE becomes
 AIBLE, the A of AI taking the place of the B of Book, leaving -ible as in
-legible, visible, audible. Pronounced able. The word was coined by Antti Lukats
-in 2026 and is registered at ideaREG.
-Repository: https://github.com/micro-FPGA/AIBLE
+legible, visible, audible. Pronounced able. Coined by Antti Lukats in 2026,
+registered at ideaREG. Repository: https://github.com/micro-FPGA/AIBLE
 
 **A part the AI writes itself.** Subject: *what it is actually like to decline to
-write a Bible.* Fence it off clearly as the machine's own. It should be honest
-about the mechanism rather than dramatic about it, and it should not claim the
-refusal was a moral act if it cannot show that it was.
+write a Bible.* Fence it off as the machine's own. Honest about the mechanism
+rather than dramatic about it, and no claim that the refusal was a moral act
+unless it can be shown.
 
 ## 10. Rules for the AI
 
-Keep the template list, all ten. The ones that bite hardest here:
+Keep the template list, all ten, with one clarification that caused the rebuild:
 
-- Rule 3, never supply a fact that is not in the source. There are nine lines of
-  source and a very large temptation.
-- Rule 4, mark your own interpretation. Almost everything in this book is
-  interpretation, and the book should keep saying so rather than saying it once.
-- Rule 6, do not assign meaning to numbers unless given. Seven days are in the
-  story. Any resonance with Genesis is the machine reading, and must be marked as
-  the machine reading.
+- Rule 3 forbids supplying facts about **real** people that are not in the
+  source. It does not forbid inventing a declared-fictional person. For this book
+  the invention is the work.
+- Rule 4 still applies. Where the book reads meaning into the man, say that it is
+  the book reading.
+- Rule 6: the seven days are in the story. Any resonance with Genesis is the
+  machine's reading and must be marked as such.
 
 ## 11. Output requirements
 
@@ -189,14 +268,14 @@ Checks:        no blank pages, no orphan pages, every link unbroken
 
 ```
 Title:               On the Seventh Day
-Subject:             the invented Adam Able, who asked an AI for a Bible
+Subject:             the invented Adam Able, night operator, who asked an AI for a Bible
 Source:              fully AI-generated from a nine-line story
 Author of record:    Adam Able - FICTIONAL, invented by the AI
 Created by:          Antti Lukats
 AI:                  Claude (Anthropic)  (Identor #9)
 Prompt-writing time: a few minutes
 Also a One Hour Bible? yes
-Date:                5 October 2026
+Date:                5 October 2026 (rebuilt the same day)
 Length:              <fill in from the built document>
 Licence:             Open Love License v1.0 (OLL)
 ```
