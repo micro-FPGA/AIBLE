@@ -142,3 +142,30 @@ keeps its own words.
 Richard Branson was never approached. Greta Thunberg has still not replied — not
 to this, and not to the calendar the author gave her in 2019, which made that
 year 0 Anno Greta and is why this book is dated 7 AG.
+
+## Correction after first publication
+
+The first build dated the X posting to **2026**. It was **October 2019 — year 0
+Anno Greta**, the same autumn the calendar was declared. The AI wrote the wrong
+year into `hope.md` and it went unnoticed until the
+[open letter to Greta Thunberg](https://github.com/micro-FPGA/AnnoGreta/blob/main/OpenLetterToGretaThunberg.md)
+was drafted and the two documents disagreed.
+
+It is not a cosmetic fix. The book changes in three places:
+
+- The 2001 rule was attempted after **eighteen** years, not twenty-five.
+- The calendar and the property offer are **weeks apart in one autumn**, not
+  seven years apart. Two gifts in the same season, to the same person, neither
+  answered.
+- The offer then stood **unanswered for seven years** before lapsing — never
+  withdrawn, never repeated, never pressed. That is what rule 6 is describing.
+
+Corrected in `hope.md` and regenerated, no hand-editing of the output, so the
+entry is still fully AI-generated. Same handling as the two ARDF corrections in
+Aible 6.
+
+## Afterwards
+
+In 7 AG the offer was partly reopened in the open letter: *should you ask, one
+island slot is yours if you wish.* The island is named there for the first time
+— **Hiiumaa**. The book ends on the expiry, which was true when it was written.
