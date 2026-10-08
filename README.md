@@ -61,6 +61,9 @@ aibles/
 | [8](aibles/8/README.md) | Always Odd | a fictional flower shop in Tallinn | **fully AI-generated** | Claude | 24 pp | 7 AG |
 | [9](aibles/9/README.md) | Dialog between Thinker and AI | the humanities in a digital age | **AI dialogue** | ChatGPT | 1800 pp | 7 AG |
 | [10](aibles/10/README.md) | Transmission Without a copy | About Terry L. Transmitter | **AI generated/prompted** | Claude | 32 pp | 7 AG |
+| [11](aibles/11/README.md) | All Yours If the Answer Is Yes | a real offer of everything, made in public, that nobody took | human (Antti Lukats, as Hope A. Freedom) | Claude | 21 pp | 7 AG |
+| [12](aibles/12/README.md) | On the Seventh Day | the invented Adam Able, who asked an AI for a Bible | **fully AI-generated** | Claude | 18 pp | 7 AG |
+| [13](aibles/13/README.md) | OpenChip Is Me | a handle carried for decades and given away free | human (Antti Lukats, as OpenChip) | Claude | 18 pp | 7 AG |
 
 An Aible has a **subject** — the material it was made from. The subject of #1 is
 the *Antti Bible*, 577 pages, written by hand. An Aible is not a replacement for
