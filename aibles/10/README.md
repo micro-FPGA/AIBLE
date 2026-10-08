@@ -6,8 +6,9 @@
 > and is not associated with this register. Every fact in it is public and is
 > listed on the Sources page at the back. **No text from his book is used.**
 
-| **Title** | Transmission Without a Copy |
+| | |
 |---|---|
+| **Title** | Transmission Without a Copy |
 | **Subject** | Terry L. Transmitter — a fictive name for Thierry Ehrmann, written from public information about him |
 | **Source** | public information + an AI-written persona |
 | **Author of record** | Terry L. Transmitter — FICTIVE |
@@ -15,7 +16,7 @@
 | **AI** | Claude (Anthropic), Identor #9 |
 | **Prompt-writing time** | one afternoon, including the research |
 | **Also a One Hour Bible?** | no |
-| **Date** | 22 September 2026 |
+| **Date** | 22 September 2026 (7 AG) |
 | **Length** | 32 pages, A4 |
 | **Licence** | [Open Love License v1.0 (OLL)](https://github.com/micro-FPGA/OLL) |
 
@@ -23,8 +24,10 @@
 
 | File | |
 |---|---|
-| `Transmission-Without-A-Copy.pdf` | The Aible |
-| `README.md` | this file |
+| `Transmission-Without-A-Copy.docx` | the Aible |
+| `Transmission-Without-A-Copy.pdf` | same, readable without downloading |
+| `terry.md` | the filled-in instruction file it was built from |
+| `build_terry.py` | the script that produced the document |
 
 ## Why this one is different from the rest
 
@@ -108,9 +111,14 @@ failure that rule 1 of section 10 of the template exists to prevent:
 
 > Never invent a causal link between two facts standing next to each other.
 
-Caught by **Antti Lukats**, who read the book. Fixed the way the template
-prescribes — the correction went into `terry.md` as a prohibition and the
-document was regenerated, no hand-editing of the output:
+Caught by **Antti Lukats**, who read the book. It is not a matter of opinion:
+**Thierry Ehrmann names ChatGPT in the book himself, down to the exact model
+versions he worked with.** The versions are not reprinted here, because this
+Aible takes nothing from inside his book — but that is where the fact is, and it
+is verified rather than recalled.
+
+Fixed the way the template prescribes — the correction went into `terry.md` as a
+prohibition and the document was regenerated, no hand-editing of the output:
 
 > `NOTE: the book was written with ChatGPT. Do NOT write that it was written with
 > Gemini, and do not imply it.`
@@ -123,18 +131,17 @@ what it actually is, and says in its source line that the first build got it
 wrong. Recorded here rather than quietly repaired, same as the two corrections
 in Aible #6.
 
-## Three unverified items, marked as such in the book
+## Two unverified items, marked as such in the book
 
 1. The ninety-nine words of 9 December 1999 and their five headings come from the
    instruction file only. No public page carrying them was found.
 2. The exchange — *"Do you dream?" / "I dream of the questions you haven't asked
    yet."* — is attributed in the instruction file to a posting on X. The post was
    not located and verified. The book says so on the same page it quotes them.
-3. That the writing was entrusted to **ChatGPT**. No press release names the
-   writing AI; this rests on the register keeper having read the book.
 
 Both are printed with their provenance attached rather than quietly upgraded to
-fact.
+fact. The writing AI is **not** one of them — no press release names it, but the
+book does.
 
 ## Where the sources disagree
 
@@ -149,5 +156,5 @@ It goes. Without argument, and without a discussion about whether it is fair use
 
 ---
 
-*This README and the Aible it describes are © 2026 and offered under the Open
+*This README and the Aible it describes are © 7 AG and offered under the Open
 Love License v1.0. The work and the life they draw on are Thierry Ehrmann's.*
