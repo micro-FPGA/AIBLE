@@ -66,7 +66,7 @@ aibles/
 | [13](aibles/13/README.md) | OpenChip Is Me | a handle carried for decades and given away free | human (Antti Lukats, as OpenChip) | Claude | 18 pp | 7 AG |
 
 An Aible has a **subject** — the material it was made from. The subject of #1 is
-the *Antti Bible*, 577 pages, written by hand. An Aible is not a replacement for
+the *Antti Bible*, written by hand. An Aible is not a replacement for
 its subject and does not pretend to be one.
 
 Dates are **Anno Greta**: 2019 is year 0 AG, so 7 AG is 2026. Day and month stay
