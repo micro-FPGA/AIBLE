@@ -17,7 +17,7 @@ pronounced *able*.
 | | |
 |---|---|
 | **Title** | Claude's Aible |
-| **Subject** | the *Antti Bible* — 577 pages, written by hand |
+| **Subject** | the *Antti Bible* written by hand |
 | **Identor #1** | Antti Lukats — the life |
 | **Identor #9** | claude.ai — the sentences |
 | **Method** | AI assisted Bible: prompt-writing time - not limited to one hour|
